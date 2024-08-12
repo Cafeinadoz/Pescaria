@@ -1,0 +1,82 @@
+* { /* Reset inicial */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins";
+    overflow-x: hidden;
+}
+
+
+
+  .Entre-em-contato input{
+    margin-bottom: 0.5em;
+    height: 2em;
+    padding: 1.5em; 
+}
+
+#Enviar{
+    background-color: #7ED957;
+    width: 60%;
+    
+}
+
+
+
+.Contato{
+    background-color: #EFE9E4 ;
+    display: flex;
+}
+
+
+body{
+    background-color: #EFE9E4;
+}
+
+
+header{
+    
+    background-color: black;
+    width: 100%; 
+}
+
+header img{   
+    width: 12em;
+}
+
+
+footer{
+    background-color: black;
+}
+
+
+
+.Numero{
+    padding-left: 19em;
+
+}
+
+.Numero{
+    display: block;
+    width: 320px;
+    margin-bottom: 8px;
+    padding: 8px;
+}
+
+
+
+.Entre-em-contato input{
+    display: block;
+    width: 100%;
+}
+
+
+.Entre-em-contato{
+   margin-top: 20em;
+   
+}
+
+.conteiner{
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+ }
